@@ -1,6 +1,14 @@
 # figma-shorcuts
 List of custom figma shorcuts and specific plugins for efficient way of working
 
+### General
+General shortcuts to help you speed up your workflow.
+| Path      | Shorcut | 
+| :---        |    :----:   |
+| Search    |  `⌘/`     |
+
+`Search can be used for fast access to plugins for example.`
+
 
 ### Plugins
 Plugins are third-party scripts or applications that extend the functionality of an application. Use plugins to customize your experience, or create more efficient workflows.
