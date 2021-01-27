@@ -10,6 +10,7 @@ Plugins are third-party scripts or applications that extend the functionality of
 | Plugins->Figma Walker    |  `⌥⌘/`     |
 | Plugins->Desing Lint    | `⌘L`       |
 | Plugins->Similayer    |  `⌃⌘S`      |
+| Plugins->Contrast    |  `⌃⌥⌘C`      |
 
 
 ### Arrange
