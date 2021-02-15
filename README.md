@@ -2,10 +2,13 @@
 List of custom figma shorcuts and specific plugins for efficient way of working
 
 ### General
-General shortcuts to help you speed up your workflow.
+General shortcuts to help you speed up your workflow. Some of the shortcuts are generic, not Figma specific.
 | Path      | Shorcut | 
 | :---        |    :----:   |
 | Search    |  `⌘/`     |
+| Add a bullet    |  `⌥8`     |
+
+
 
 `Search can be used for fast access to plugins for example.`
 
