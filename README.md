@@ -42,6 +42,15 @@ Alignment tools allow you to arrange layers on the canvas in relation to one ano
 ### Rename Layers
 Renaming supports regular expressions `⌘R`
 
+### Color palette
+This is a color palette I mainly use when creating visual diagrams and stories in a graphical way through flows, charts, diagrams etc.
+#3DD7A8 - Greenish Cyan
+#5AC1E1- Blue
+#8ED96B- Green
+#9E5AE1- Purple
+#E15A7B- Red
+#E1AB5A- Yellow
+
 
 ### Resources
 [Custom shorcuts](https://support.apple.com/guide/mac-help/create-keyboard-shortcuts-for-apps-mchlp2271/mac)  
