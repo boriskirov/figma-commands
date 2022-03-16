@@ -8,7 +8,7 @@ General shortcuts to help you speed up your workflow. Some of the shortcuts are 
 | Search    |  `⌘/`     |
 | Add a bullet    |  `⌥8`     |
 | Add Autolayout    |  `⇧A`     |
-| Frame selection    |  `⌘F`     |
+| Object->Frame selection    |  `⌘F`     |
 
 
 
