@@ -12,8 +12,6 @@ General shortcuts to help you speed up your workflow. Some of the shortcuts are 
 | Add Autolayout | `⇧A` |
 | Object->Frame selection | `⌘F` |
 
-`Search can be used for fast access to plugins for example.`
-
 ### Plugins
 
 Plugins are third-party scripts or applications that extend the functionality of an application. Use plugins to customize your experience, or create more efficient workflows.
@@ -24,6 +22,8 @@ Plugins are third-party scripts or applications that extend the functionality of
 | Plugins->Desing Lint  |  `⌘L`   |
 | Plugins->Similayer    |  `⌃⌘S`  |
 | Plugins->Contrast     | `⌃⌥⌘C`  |
+
+`Combining Search + Figma Walker allows you for faster navigation between pages and components.`
 
 ### Arrange
 
